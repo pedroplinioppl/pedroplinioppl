@@ -1,7 +1,7 @@
 ## Pedro Plínio
 
-Desenvolvedor Full Stack, com foco principalmente em automação, ciência de dados e desenvolvimento de APIs REST
-No tempo livre eu gosto de programação competitiva também.
+<p> Desenvolvedor Full Stack, com foco principalmente em automação, ciência de dados e desenvolvimento de APIs REST </p>
+<p>No tempo livre eu gosto de programação competitiva também.</p>
 
 ##  📞 **Contatos**
 
