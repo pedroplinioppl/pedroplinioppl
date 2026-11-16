@@ -17,6 +17,15 @@
 ## 💻 **Conhecimentos**
 <p> <img src="https://skillicons.dev/icons?i=py,java,c,cs,fastapi,postgres,selenium,react,html,css,vscode" alt="Tecnologias" /> </p>
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="190" alt="Estatísticas do GitHub"
+    src="https://github-stats-extended.vercel.app/api?username=pedroplinioppl&show_icons=true&theme=dark&locale=pt-br" />
+  <img height="190" alt="Linguagens mais usadas"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedroplinioppl&layout=compact&theme=dark&locale=pt-br" />
+</p>
+
 <!--
 **pedroplinioppl/pedroplinioppl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
